@@ -1,6 +1,6 @@
 ---
+title: About Me
 layout: page
-title: About me
 feature_image: ["files/paloduro.jpeg"]
 feature_text: About Me|
 ---
