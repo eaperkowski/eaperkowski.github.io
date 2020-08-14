@@ -1,5 +1,4 @@
 ---
-title: About Me
 layout: page
 feature_image: ["files/paloduro.jpeg"]
 feature_text: About Me|
