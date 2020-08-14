@@ -35,9 +35,9 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
+- title: About Me
   url: /about/
-- title: Research Interests
+- title: Current Research
   url: /research/
 - title: Curriculum Vitae
   url: /cv/
