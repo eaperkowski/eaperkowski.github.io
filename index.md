@@ -1,7 +1,7 @@
 ---
 title: Welcome! 
 layout: page
-feature_image: "files/ecolab_fieldwork.jpeg"
+feature_image: "[files/ecolab_fieldwork.jpeg]"
 feature_text: |
   ## Welcome to my personal website!
 ---
