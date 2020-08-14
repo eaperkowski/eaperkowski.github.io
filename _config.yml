@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: daviddarnes/alembic
+remote_theme: eaperkowski/eaperkowski.github.io
 
 # File excludes
 exclude:
@@ -34,7 +34,7 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
 - title: Home
-  url: /
+  url: /home
 - title: About
   url: /about/
 - title: Research Interests
