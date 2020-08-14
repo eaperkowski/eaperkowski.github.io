@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: eaperkowski/eaperkowski.github.io
+remote_theme: daviddarnes/alembic
 
 # File excludes
 exclude:
