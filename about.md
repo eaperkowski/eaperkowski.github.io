@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About this website
+title: About me
 ---
+["/files/Evan_twitterpic"]
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Hello! My name is Evan Perkowski and I am a current second-year PhD student at Texas Tech University in Dr. Nick Smith's [lab](http://www.smithecophyslab.com/). I am originally from Pennsylvania, where I completed my undergraduate degree in biology at Widener University just outside of Philadelphia.
