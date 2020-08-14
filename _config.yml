@@ -41,7 +41,6 @@ navigation_header:
   url: /research/
 - title: Curriculum Vitae
   url: /cv/
-
 - title: News
   url: /blog/
 
@@ -53,9 +52,6 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: News
     output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: ["/files/pine.jpeg"]
