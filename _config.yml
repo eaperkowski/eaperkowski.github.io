@@ -34,7 +34,7 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
 - title: Home
-  url: /home
+  url: /
 - title: About
   url: /about/
 - title: Research Interests
