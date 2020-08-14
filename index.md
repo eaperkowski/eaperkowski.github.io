@@ -1,7 +1,7 @@
 ---
 title: Welcome! 
 layout: page
-feature_image: "https://github.com/eaperkowski/eaperkowski.github.io/blob/master/files/ecolab_fieldwork.jpeg"
+feature_image: ""
 feature_text: |
   ## Welcome to my personal website!
 ---
