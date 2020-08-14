@@ -1,9 +1,9 @@
 ---
 title: Welcome to my website
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://github.com/eaperkowski/eaperkowski.github.io/blob/master/files/Evan_twitterpic.jpeg"
 feature_text: |
-  ## Hello world
+  ## Welcome to my personal website!
 ---
 
 There isn't much going on here yet, but watch this space
