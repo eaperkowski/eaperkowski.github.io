@@ -2,6 +2,7 @@
 title: About Me
 layout: page
 feature_image: ["/files/paloduro.jpeg"]
+
 ---
 
 Hello, I'm Evan! I am a current third-year PhD student at Texas Tech University working in Dr. Nick Smith's [lab](http://www.smithecophyslab.com/) studying the influence of environmental conditions and soil characteristics on photosynthetic traits. I am also interested in soil microbe-plant-herbivore tritrophic interactions, fungal endophytes, mycorrhizal fungi, and general plant responses to global change.
