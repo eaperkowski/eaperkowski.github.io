@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://eaperkowski.org'
+url: 'https://eaperkowski.github.io'
 baseurl: ''
 title: 'Evan Perkowski'
 description: 'Personal website for Evan Perkowski'
