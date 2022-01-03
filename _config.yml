@@ -39,10 +39,12 @@ navigation_header:
   url: /about/
 - title: Current Research
   url: /research/
-- title: Curriculum Vitae
-  url: /cv/
+- title: Publications
+  url: /publications/
 - title: News
   url: /news/
+- title: Curriculum Vitae
+  url: /cv/
 
 # Footer nav
 navigation_footer:
