@@ -42,7 +42,7 @@ navigation_header:
 - title: Curriculum Vitae
   url: /cv/
 - title: News
-  url: /blog/
+  url: /news/
 
 # Footer nav
 navigation_footer:
