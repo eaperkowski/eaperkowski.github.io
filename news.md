@@ -5,6 +5,12 @@ feature_image: ["files/botanical.jpeg"]
 feature_text: |
 ---
 
+
+**May 11, 2022**
+-
+I am planning on presenting at the Ecological Society of America annual meeting this August in Montreal, Canada. I'll be giving a talk on climatic and edaphic drivers of leaf nitrogen allocation and water use efficiency. This talk will use data that I've compiled over the past two summers across central and eastern Texas. I'm really excited about this work, and the abstract was recently accepted. I also received word today that I received one of the Biogeosciences section Student Travel Awards, which will help fund travel up to Canada for this conference. Onward and upward!
+
+
 **March 04, 2022**
 -
 In addition to the Graduate Student Research Support Award, I had also submitted an application package to the Texas Tech University Doctoral Dissertation Completion Fellowship. This fellowship allows recipients to focus an academic year on finishing their dissertation, and promotes dissertation completion in a timely manny.
