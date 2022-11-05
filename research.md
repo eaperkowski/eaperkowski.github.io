@@ -9,9 +9,12 @@ I am a plant ecophysiologist who is interested in understanding plant nutrient a
 
 The following is a test from the Smith Ecophys Lab code to figure out if HTML cod styles can be applied to markdown files, and take a look at how these code look on a jekyll style webpage
 
- <div align="left"">
-      <a id="MMEE2022"></a><h2>July 22, 2022: The first in-person LEMONTREE meeting in Reading!</h2>
-      <br>
+<html>
+	<body>
+		<div align="left"">
+				  <a id="MMEE2022"></a><h2>July 22, 2022: The first in-person LEMONTREE meeting in Reading!
+						  </h2>
+						  <br>
       
       <p>Nick joined others from the
       <a href = "https://research.reading.ac.uk/lemontree/">LEMONTREE</a> group
@@ -23,7 +26,8 @@ The following is a test from the Smith Ecophys Lab code to figure out if HTML co
       </p>
 	      
       <br>
-  
+  </body>
+</html>
   
 
 Experiment #1: How does nutrient availability affect leaf and whole plant processes?
