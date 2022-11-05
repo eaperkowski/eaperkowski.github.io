@@ -10,8 +10,8 @@ My research broadly focuses on aboveground-belowground interactions, plant ecoph
 
 To find out more about my current research interests, please feel free to navigate to the [Research]("/Research.md") tab on this website.
 
-While you're here, here are a few of my professional profiles:
-[Google Scholar](https://scholar.google.com/citations?user=brocRHQAAAAJ&hl=en&oi=ao)
-[Twitter](https://twitter.com/EvanPerkowski)
-[ResearchGate](https://www.researchgate.net/profile/Evan-Perkowski)
+While you're here, here are a few of my professional profiles:<br/>
+[Google Scholar](https://scholar.google.com/citations?user=brocRHQAAAAJ&hl=en&oi=ao)<br/>
+[Twitter](https://twitter.com/EvanPerkowski)<br/>
+[ResearchGate](https://www.researchgate.net/profile/Evan-Perkowski)<br/>
 [GitHub](https://github.com/eaperkowski)
