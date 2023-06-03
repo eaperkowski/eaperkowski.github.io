@@ -1,5 +1,5 @@
 ---
-layout: _layouts/page
+layout: page
 title: About
 ---
 
