@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Hyde
@@ -13,9 +12,14 @@ description:      'A brazen two-column <a href="http://jekyllrb.com" target="_bl
 url:              https://eaperkowski.github.io/
 baseurl:          /
 
+
+gems:                [jekyll-paginate]
+paginate:            5
+paginate_path:       "page:num"
+
 author:
   name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/evanperkowski
 
 paginate:         5
 
