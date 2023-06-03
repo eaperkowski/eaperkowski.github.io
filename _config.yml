@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
+title:            Evan A. Perkowski
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Nutrient acquisition, nutrient allocation, photosynthetic acclimation.'
 url:              https://eaperkowski.github.io/
 baseurl:          /
 
@@ -18,7 +18,7 @@ paginate:            5
 paginate_path:       "page:num"
 
 author:
-  name:           'Mark Otto'
+  name:           'Evan A. Perkowski'
   url:            https://twitter.com/evanperkowski
 
 paginate:         5
