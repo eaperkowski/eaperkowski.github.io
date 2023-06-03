@@ -1,17 +1,30 @@
 ---
-title: About Me
 layout: page
-feature_image: ["/files/paloduro.jpeg"]
+title: About
 ---
 
-Hello! My name is Evan Perkowski. I am a current fifth-year PhD candidate at Texas Tech University working in Dr. Nick Smith's [lab](http://www.smithecophyslab.com/). 
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-My research broadly focuses on aboveground-belowground interactions, plant ecophysiology, and ecosystem ecology. Specifically, my research focuses on eliciting mechanisms that allow us to better understand how plant nutrient acquisition and allocation strategies shift under different environmental conditions through a combination of greenhouse, growth chamber, and field experiments. 
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-To find out more about my current research interests, please feel free to navigate to the [Research]("/Research.md") tab on this website.
+There are currently two themes built on Poole:
 
-While you're here, here are a few of my professional profiles:<br/>
-[Google Scholar](https://scholar.google.com/citations?user=brocRHQAAAAJ&hl=en&oi=ao)<br/>
-[Twitter](https://twitter.com/EvanPerkowski)<br/>
-[ResearchGate](https://www.researchgate.net/profile/Evan-Perkowski)<br/>
-[GitHub](https://github.com/eaperkowski)
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
+
+Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
