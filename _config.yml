@@ -1,59 +1,26 @@
-# Set theme
-remote_theme: poole/hyde
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# File excludes
-exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-# Set plugins
-plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-default-layout
-- jekyll-feed
-- jemoji
-- jekyll-remote-theme
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              https://eaperkowski.github.io/
+baseurl:          /
 
-# Site settings
-url: 'https://eaperkowski.github.io'
-baseurl: ''
-title: 'Evan Perkowski'
-description: 'Personal website for Evan Perkowski'
-permalink: pretty
-logo: "https://www.gravatar.com/avatar/f5f7108c8e7e4c58af326e925b1f588f"
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-# Pagination
-paginate: 5
-paginate_path: blog/page:num
+paginate:         5
 
-# Header nav
-navigation_header:
-- title: Home
-  url: /
-- title: About Me
-  url: /about/
-- title: Current Research
-  url: /research/
-- title: Publications
-  url: /publications/
-- title: News
-  url: /news/
-- title: Curriculum Vitae
-  url: /cv/
+# Custom vars
+version:          2.1.0
 
-# Footer nav
-navigation_footer:
-- title: Back to top
-  url: "#top"
-
-# Collections
-collections:
-  posts:
-    title: News
-    output: true
-    feature_image: ["/files/pine.jpeg"]
+github:
+  repo:           https://github.com/poole/hyde
