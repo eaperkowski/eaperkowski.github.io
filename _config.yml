@@ -10,7 +10,6 @@ title:            Evan A. Perkowski
 tagline:          'A Jekyll theme'
 description:      'Nutrient acquisition, nutrient allocation, photosynthetic acclimation.'
 url:              https://eaperkowski.github.io/
-baseurl:          /
 
 
 gems:                [jekyll-paginate]
