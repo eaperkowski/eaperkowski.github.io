@@ -1,29 +1,25 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+title:              Evan A. Perkowski
+email:              evan.a.perkowski@ttu.edu
+description:        Evan A. Perkowski's Personal Website
+author:             Evan A. Perkowski
+baseurl:            "/"
+url:                "https://eaperkowski.github.io"
 
-# Permalinks
-permalink:        pretty
+# Social Profiles
+twitter_username:   EvanPerkowski
+github_username:    eaperkowski
+facebook_username:  
+instagram_username:  
+linkedin_username:
 
-# Setup
-title:            Evan A. Perkowski
-tagline:          'A Jekyll theme'
-description:      'Nutrient acquisition, nutrient allocation, photosynthetic acclimation.'
-url:              https://eaperkowski.github.io/
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   #UA-XXXXXXXXX-X # out your google-analytics code
 
-
-gems:                [jekyll-paginate]
-paginate:            5
-paginate_path:       "page:num"
-
-author:
-  name:           'Evan A. Perkowski'
-  url:            https://twitter.com/evanperkowski
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
