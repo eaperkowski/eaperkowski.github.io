@@ -10,10 +10,20 @@ twitter_username:   EvanPerkowski
 github_username:    eaperkowski
 facebook_username:  
 instagram_username:  
-linkedin_username: evan-a-perkowski-304470b1
+linkedin_username: evan-a-perkowski
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   #UA-XXXXXXXXX-X # out your google-analytics code
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VCJEWCMN68"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VCJEWCMN68');
+</script>
 
 # Build settings
 markdown:           kramdown
