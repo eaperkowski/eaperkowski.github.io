@@ -1,5 +1,5 @@
 title:              Evan A. Perkowski
-email:              evan.a.perkowski@ttu.edu
+email:              "<evan.a.perkowski@ttu.edu>"
 description:        Evan A. Perkowski's Personal Website
 author:             Evan A. Perkowski
 baseurl:            "/"
@@ -10,7 +10,7 @@ twitter_username:   EvanPerkowski
 github_username:    eaperkowski
 facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: evan-a-perkowski-304470b1
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   #UA-XXXXXXXXX-X # out your google-analytics code
