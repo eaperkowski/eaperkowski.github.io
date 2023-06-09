@@ -1,5 +1,5 @@
 title:              Evan A. Perkowski
-email:              "evan.a.perkowski@ttu.edu"
+email:              evan.a.perkowski@ttu.edu
 description:        Plant ecophysiologist.
 author:             Evan A. Perkowski
 baseurl:            "/"
@@ -13,7 +13,7 @@ instagram_username:
 linkedin_username: evan-a-perkowski
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   "G-VCJEWCMN68"
+google_analytics:   G-VCJEWCMN68
 
 # Build settings
 markdown:           kramdown
