@@ -23,7 +23,7 @@ repository               : "eaperkowski/eaperkowski.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "/images/profile.png"
   name             : "Evan A. Perkowski"
   pronouns         : # example: "she/her"  
   bio              : "Plant ecophysiologist"
