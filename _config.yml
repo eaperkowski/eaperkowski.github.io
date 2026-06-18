@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Evan A. Perkowski, Ph.D."
 title_separator          : "-"
 name                     : &name "Evan A. Perkowski"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Plant ecophysiologist and ecosystem ecologist"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://eaperkowski.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   name             : "Evan A. Perkowski"
   pronouns         : # example: "she/her"  
   bio              : "Plant ecophysiologist"
-  location         : "Earth"
+  location         : "Lubbock, TX, USA"
   employer         : "Texas Tech University"
   uri              : # URL
   email            : "evan.a.perkowski@ttu.edu" 
@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=brocRHQAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9523-8892"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Evan-Perkowski?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "eaperkowski@bsky.social" # Replace this with your Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
