@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026_perkowski_fe
 excerpt: ''
-date: 
+date: 2026-06-21
 venue: 'Functional Ecology'
 paperurl: 'https://eaperkowski.github.io/files/papers/2026_perkowski_fe.pdf'
 bibtexurl: 'https://eaperkowski.github.io/files/bib/2026_perkowski_fe.bib'

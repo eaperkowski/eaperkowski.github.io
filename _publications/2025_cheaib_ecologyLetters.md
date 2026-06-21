@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Soil nitrogen supply exerts largest influence on leaf nitrogen in environments with the greatest leaf nitrogen demand"
 collection: publications
 category: manuscripts
 permalink: /publication/2025_cheaib_ecologyLetters
 excerpt: ''
-date:
+date: 2025-01-17
 venue: 'Ecology Letters'
 paperurl: 'https://eaperkowski.github.io/files/papers/2025_cheaib_ecologyLetters.pdf'
 bibtexurl: 'https://eaperkowski.github.io/files/bib/2025_cheaib_ecologyLetters.bib'
