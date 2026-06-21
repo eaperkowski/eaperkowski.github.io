@@ -3,7 +3,7 @@ title: "Root mass carbon costs to acquire nitrogen are determined by nitrogen an
 collection: publications
 category: manuscripts
 permalink: /publication/2021_perkowski_jxb
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2021-07-28
 venue: 'Journal of Experimental Botany'
 paperurl: 'https://eaperkowski.github.io/files/papers/2021_perkowski_jxb.pdf'
